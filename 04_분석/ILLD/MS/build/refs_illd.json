@@ -1,0 +1,883 @@
+{
+ "ahern2011improving": {
+  "type": "journal",
+  "authors": [
+   "Ahern RM",
+   "Lozano R",
+   "Naghavi M",
+   "Foreman K",
+   "Gakidou E",
+   "Murray CJ"
+  ],
+  "title": "Improving the public health utility of global cardiovascular mortality data: the rise of ischemic heart disease",
+  "journal": "Popul Health Metr",
+  "year": 2011,
+  "vol": "9",
+  "issue": "",
+  "pages": "8",
+  "doi": "10.1186/1478-7954-9-8",
+  "pmid": "21406100",
+  "verified": "PubMed esummary 2026-11-16"
+ },
+ "benchimol2015reporting": {
+  "type": "journal",
+  "authors": [
+   "Benchimol EI",
+   "Smeeth L",
+   "Guttmann A",
+   "Harron K",
+   "Moher D",
+   "Petersen I",
+   "Sørensen HT",
+   "von Elm E",
+   "Langan SM"
+  ],
+  "title": "The REporting of studies Conducted using Observational Routinely-collected health Data (RECORD) statement",
+  "journal": "PLoS Med",
+  "year": 2015,
+  "vol": "12",
+  "issue": "10",
+  "pages": "e1001885",
+  "doi": "10.1371/journal.pmed.1001885",
+  "pmid": "26440803",
+  "verified": "PubMed esummary 2026-11-16"
+ },
+ "chung2022factors": {
+  "type": "journal",
+  "authors": [
+   "Chung S",
+   "Kim SH",
+   "Park BJ",
+   "Park S"
+  ],
+  "title": "Factors associated with major errors on death certificates",
+  "journal": "Healthcare (Basel)",
+  "year": 2022,
+  "vol": "10",
+  "issue": "4",
+  "pages": "726",
+  "doi": "10.3390/healthcare10040726",
+  "pmid": "35455903",
+  "verified": "PubMed esummary 2026-11-16"
+ },
+ "clegg2013frailty": {
+  "type": "journal",
+  "authors": [
+   "Clegg A",
+   "Young J",
+   "Iliffe S",
+   "Rikkert MO",
+   "Rockwood K"
+  ],
+  "title": "Frailty in elderly people",
+  "journal": "Lancet",
+  "year": 2013,
+  "vol": "381",
+  "issue": "9868",
+  "pages": "752-762",
+  "doi": "10.1016/S0140-6736(12)62167-9",
+  "pmid": "23395245",
+  "verified": "PubMed esummary 2026-11-16"
+ },
+ "dupont2022spatial": {
+  "type": "journal",
+  "authors": [
+   "Dupont E",
+   "Wood SN",
+   "Augustin NH"
+  ],
+  "title": "Spatial+: a novel approach to spatial confounding",
+  "journal": "Biometrics",
+  "year": 2022,
+  "vol": "78",
+  "issue": "4",
+  "pages": "1279-1290",
+  "doi": "10.1111/biom.13656",
+  "pmid": "35258102",
+  "verified": "PubMed esummary 2026-11-16"
+ },
+ "ellingsen2022garbage": {
+  "type": "journal",
+  "authors": [
+   "Ellingsen CL",
+   "Alfsen GC",
+   "Ebbing M",
+   "Pedersen AG",
+   "Sulo G",
+   "Vollset SE",
+   "Braut GS"
+  ],
+  "title": "Garbage codes in the Norwegian Cause of Death Registry 1996-2019",
+  "journal": "BMC Public Health",
+  "year": 2022,
+  "vol": "22",
+  "issue": "1",
+  "pages": "1301",
+  "doi": "10.1186/s12889-022-13693-w",
+  "pmid": "35794568",
+  "verified": "PubMed esummary 2026-11-16"
+ },
+ "franca2019improving": {
+  "type": "journal",
+  "authors": [
+   "França EB",
+   "Ishitani LH",
+   "Teixeira RA",
+   "Cunha CCD",
+   "Marinho MF"
+  ],
+  "title": "Improving the usefulness of mortality data: reclassification of ill-defined causes based on medical records and home interviews in Brazil",
+  "journal": "Rev Bras Epidemiol",
+  "year": 2019,
+  "vol": "22 Suppl 3",
+  "issue": "Suppl 3",
+  "pages": "e190010.supl.3",
+  "doi": "10.1590/1980-549720190010.supl.3",
+  "pmid": "31800849",
+  "verified": "PubMed esummary 2026-11-16"
+ },
+ "hayashi2024senility": {
+  "type": "journal",
+  "authors": [
+   "Hayashi R",
+   "Imanaga T",
+   "Marui E",
+   "Kinoshita H",
+   "Ishii F",
+   "Shinohara E",
+   "Beppu M"
+  ],
+  "title": "Senility deaths in aged societies: the case of Japan",
+  "journal": "Glob Health Med",
+  "year": 2024,
+  "vol": "6",
+  "issue": "1",
+  "pages": "40-48",
+  "doi": "10.35772/ghm.2023.01127",
+  "pmid": "38450112",
+  "verified": "PubMed esummary 2026-11-16"
+ },
+ "inoue2023current": {
+  "type": "journal",
+  "authors": [
+   "Inoue K",
+   "Abe S",
+   "Fukunaga T"
+  ],
+  "title": "Current state of cause of death determinations in Japan and the need to list the precise underlying cause of death",
+  "journal": "Med Sci Law",
+  "year": 2023,
+  "vol": "63",
+  "issue": "2",
+  "pages": "114-119",
+  "doi": "10.1177/00258024221102203",
+  "pmid": "35585706",
+  "verified": "PubMed esummary 2026-11-16"
+ },
+ "inskip1983methods": {
+  "type": "journal",
+  "authors": [
+   "Inskip H",
+   "Beral V",
+   "Fraser P",
+   "Haskey J"
+  ],
+  "title": "Methods for age-adjustment of rates",
+  "journal": "Stat Med",
+  "year": 1983,
+  "vol": "2",
+  "issue": "4",
+  "pages": "455-466",
+  "doi": "10.1002/sim.4780020404",
+  "pmid": "6672943",
+  "verified": "PubMed esummary 2026-11-16"
+ },
+ "jo2004proportion": {
+  "type": "journal",
+  "authors": [
+   "Jo MW",
+   "Khang YH",
+   "Yun S",
+   "Lee JY",
+   "Lee MS",
+   "Lee SI"
+  ],
+  "title": "Proportion of death certificates issued by physicians and associated factors in Korea, 1990-2002",
+  "journal": "J Prev Med Public Health",
+  "year": 2004,
+  "vol": "37",
+  "issue": "4",
+  "pages": "345-352",
+  "doi": "",
+  "pmid": "25175616",
+  "verified": "PubMed esummary 2026-11-16"
+ },
+ "kakiuchi2019descriptive": {
+  "type": "journal",
+  "authors": [
+   "Kakiuchi Y",
+   "Nagao R",
+   "Ochiai E",
+   "Kakimoto Y",
+   "Osawa M"
+  ],
+  "title": "A descriptive study of solitary death in Yokohama City",
+  "journal": "Environ Health Prev Med",
+  "year": 2019,
+  "vol": "24",
+  "issue": "1",
+  "pages": "12",
+  "doi": "10.1186/s12199-019-0766-z",
+  "pmid": "30764762",
+  "verified": "PubMed esummary 2026-11-16"
+ },
+ "kang2015korea": {
+  "type": "journal",
+  "authors": [
+   "Kang YW",
+   "Ko YS",
+   "Kim YJ",
+   "Sung KM",
+   "Kim HJ",
+   "Choi HY",
+   "Sung C",
+   "Jeong E"
+  ],
+  "title": "Korea Community Health Survey data profiles",
+  "journal": "Osong Public Health Res Perspect",
+  "year": 2015,
+  "vol": "6",
+  "issue": "3",
+  "pages": "211-217",
+  "doi": "10.1016/j.phrp.2015.05.003",
+  "pmid": "26430619",
+  "verified": "PubMed esummary 2026-11-16"
+ },
+ "kim2022trends": {
+  "type": "journal",
+  "authors": [
+   "Kim E",
+   "Baek J",
+   "Kim M",
+   "Lee H",
+   "Bae JW",
+   "Kim HC"
+  ],
+  "title": "Trends in regional disparity in cardiovascular mortality in Korea, 1983-2019",
+  "journal": "Korean Circ J",
+  "year": 2022,
+  "vol": "52",
+  "issue": "11",
+  "pages": "829-843",
+  "doi": "10.4070/kcj.2022.0156",
+  "pmid": "36347519",
+  "verified": "PubMed esummary 2026-11-16"
+ },
+ "kim2024death": {
+  "type": "journal",
+  "authors": [
+   "Kim JJ",
+   "Kim SH",
+   "Chung S",
+   "Park BJ",
+   "Park S",
+   "Park SY"
+  ],
+  "title": "Do death certificate errors decrease as clinical experience in an emergency department increases?",
+  "journal": "J Korean Med Sci",
+  "year": 2024,
+  "vol": "39",
+  "issue": "7",
+  "pages": "e62",
+  "doi": "10.3346/jkms.2024.39.e62",
+  "pmid": "38412609",
+  "verified": "PubMed esummary 2026-11-16"
+ },
+ "kim2026lonely": {
+  "type": "journal",
+  "authors": [
+   "Kim AM",
+   "Ryu D"
+  ],
+  "title": "Lonely deaths in Korea, 2017-2023: records of social disconnection",
+  "journal": "Behav Med",
+  "year": 2026,
+  "vol": "",
+  "issue": "",
+  "pages": "1-15",
+  "doi": "10.1080/08964289.2026.2716214",
+  "pmid": "42682182",
+  "verified": "PubMed esummary 2026-11-16"
+ },
+ "kircher1985autopsy": {
+  "type": "journal",
+  "authors": [
+   "Kircher T",
+   "Nelson J",
+   "Burdo H"
+  ],
+  "title": "The autopsy as a measure of accuracy of the death certificate",
+  "journal": "N Engl J Med",
+  "year": 1985,
+  "vol": "313",
+  "issue": "20",
+  "pages": "1263-1269",
+  "doi": "10.1056/NEJM198511143132005",
+  "pmid": "4058507",
+  "verified": "PubMed esummary 2026-11-16"
+ },
+ "knorrheld2000bayesian": {
+  "type": "journal",
+  "authors": [
+   "Knorr-Held L"
+  ],
+  "title": "Bayesian modelling of inseparable space-time variation in disease risk",
+  "journal": "Stat Med",
+  "year": 2000,
+  "vol": "19",
+  "issue": "17-18",
+  "pages": "2555-2567",
+  "doi": "10.1002/1097-0258(20000915/30)19:17/18<2555::aid-sim587>3.0.co;2-#",
+  "pmid": "10960871",
+  "verified": "PubMed esummary 2026-11-16"
+ },
+ "koo2025potential": {
+  "type": "journal",
+  "authors": [
+   "Koo HY",
+   "Bai H",
+   "Lee JR",
+   "Kang MJ",
+   "Jun YH",
+   "Yun J",
+   "Sohn JH",
+   "Lee JY",
+   "Lee H"
+  ],
+  "title": "Potential risk factors for lonely death: a nationwide case-control study in Korea",
+  "journal": "J Korean Med Sci",
+  "year": 2025,
+  "vol": "40",
+  "issue": "50",
+  "pages": "e335",
+  "doi": "10.3346/jkms.2025.40.e335",
+  "pmid": "41468915",
+  "verified": "PubMed esummary 2026-11-16"
+ },
+ "kulhanova2014socioeconomic": {
+  "type": "journal",
+  "authors": [
+   "Kulhánová I",
+   "Menvielle G",
+   "Bopp M",
+   "Borrell C",
+   "Deboosere P",
+   "Eikemo TA",
+   "Hoffmann R",
+   "Leinsalu M",
+   "Martikainen P",
+   "Regidor E",
+   "Rodríguez-Sanz M",
+   "Rychtaříková J",
+   "Wojtyniak B",
+   "Mackenbach JP"
+  ],
+  "title": "Socioeconomic differences in the use of ill-defined causes of death in 16 European countries",
+  "journal": "BMC Public Health",
+  "year": 2014,
+  "vol": "14",
+  "issue": "",
+  "pages": "1295",
+  "doi": "10.1186/1471-2458-14-1295",
+  "pmid": "25518912",
+  "verified": "PubMed esummary 2026-11-16"
+ },
+ "lee2016application": {
+  "type": "journal",
+  "authors": [
+   "Lee YR",
+   "Kim YA",
+   "Park SY",
+   "Oh CM",
+   "Kim YE",
+   "Oh IH"
+  ],
+  "title": "Application of a modified garbage code algorithm to estimate cause-specific mortality and years of life lost in Korea",
+  "journal": "J Korean Med Sci",
+  "year": 2016,
+  "vol": "31 Suppl 2",
+  "issue": "Suppl 2",
+  "pages": "S121-S128",
+  "doi": "10.3346/jkms.2016.31.S2.S121",
+  "pmid": "27775249",
+  "verified": "PubMed esummary 2026-11-16"
+ },
+ "lim2020prospective": {
+  "type": "journal",
+  "authors": [
+   "Lim JY",
+   "Jung KY",
+   "Lee DH",
+   "Yang KM",
+   "Choi M",
+   "Park JP",
+   "Lee JH"
+  ],
+  "title": "A prospective study about the discrepancy between postmortem inspections conducted by emergency physicians and forensic pathologists",
+  "journal": "J Forensic Leg Med",
+  "year": 2020,
+  "vol": "73",
+  "issue": "",
+  "pages": "101997",
+  "doi": "10.1016/j.jflm.2020.101997",
+  "pmid": "32658755",
+  "verified": "PubMed esummary 2026-11-16"
+ },
+ "lim2020study": {
+  "type": "journal",
+  "authors": [
+   "Lim JY",
+   "Yang KM",
+   "Lee DH"
+  ],
+  "title": "Study on death certificates and postmortem examination certificates written by Korean emergency physicians",
+  "journal": "J Forensic Leg Med",
+  "year": 2020,
+  "vol": "72",
+  "issue": "",
+  "pages": "101960",
+  "doi": "10.1016/j.jflm.2020.101960",
+  "pmid": "32452450",
+  "verified": "PubMed esummary 2026-11-16"
+ },
+ "lipsitch2010negative": {
+  "type": "journal",
+  "authors": [
+   "Lipsitch M",
+   "Tchetgen Tchetgen E",
+   "Cohen T"
+  ],
+  "title": "Negative controls: a tool for detecting confounding and bias in observational studies",
+  "journal": "Epidemiology",
+  "year": 2010,
+  "vol": "21",
+  "issue": "3",
+  "pages": "383-388",
+  "doi": "10.1097/EDE.0b013e3181d61eeb",
+  "pmid": "20335814",
+  "verified": "PubMed esummary 2026-11-16"
+ },
+ "mathers2005counting": {
+  "type": "journal",
+  "authors": [
+   "Mathers CD",
+   "Fat DM",
+   "Inoue M",
+   "Rao C",
+   "Lopez AD"
+  ],
+  "title": "Counting the dead and what they died from: an assessment of the global status of cause of death data",
+  "journal": "Bull World Health Organ",
+  "year": 2005,
+  "vol": "83",
+  "issue": "3",
+  "pages": "171-177",
+  "doi": "",
+  "pmid": "15798840",
+  "verified": "PubMed esummary 2026-11-16"
+ },
+ "mieno2016accuracy": {
+  "type": "journal",
+  "authors": [
+   "Mieno MN",
+   "Tanaka N",
+   "Arai T",
+   "Kawahara T",
+   "Kuchiba A",
+   "Ishikawa S",
+   "Sawabe M"
+  ],
+  "title": "Accuracy of death certificates and assessment of factors for misclassification of underlying cause of death",
+  "journal": "J Epidemiol",
+  "year": 2016,
+  "vol": "26",
+  "issue": "4",
+  "pages": "191-198",
+  "doi": "10.2188/jea.JE20150010",
+  "pmid": "26639750",
+  "verified": "PubMed esummary 2026-11-16"
+ },
+ "mikkelsen2015global": {
+  "type": "journal",
+  "authors": [
+   "Mikkelsen L",
+   "Phillips DE",
+   "AbouZahr C",
+   "Setel PW",
+   "de Savigny D",
+   "Lozano R",
+   "Lopez AD"
+  ],
+  "title": "A global assessment of civil registration and vital statistics systems: monitoring data quality and progress",
+  "journal": "Lancet",
+  "year": 2015,
+  "vol": "386",
+  "issue": "10001",
+  "pages": "1395-1406",
+  "doi": "10.1016/S0140-6736(15)60171-4",
+  "pmid": "25971218",
+  "verified": "PubMed esummary 2026-11-16"
+ },
+ "morgenstern1995ecologic": {
+  "type": "journal",
+  "authors": [
+   "Morgenstern H"
+  ],
+  "title": "Ecologic studies in epidemiology: concepts, principles, and methods",
+  "journal": "Annu Rev Public Health",
+  "year": 1995,
+  "vol": "16",
+  "issue": "",
+  "pages": "61-81",
+  "doi": "10.1146/annurev.pu.16.050195.000425",
+  "pmid": "7639884",
+  "verified": "PubMed esummary 2026-11-16"
+ },
+ "naghavi2010algorithms": {
+  "type": "journal",
+  "authors": [
+   "Naghavi M",
+   "Makela S",
+   "Foreman K",
+   "O'Brien J",
+   "Pourmalek F",
+   "Lozano R"
+  ],
+  "title": "Algorithms for enhancing public health utility of national causes-of-death data",
+  "journal": "Popul Health Metr",
+  "year": 2010,
+  "vol": "8",
+  "issue": "",
+  "pages": "9",
+  "doi": "10.1186/1478-7954-8-9",
+  "pmid": "20459720",
+  "verified": "PubMed esummary 2026-11-16"
+ },
+ "oh2025cause": {
+  "type": "journal",
+  "authors": [
+   "Oh JH",
+   "Seo J",
+   "Park HJ"
+  ],
+  "title": "Cause of death statistics in 2022 in the Republic of Korea",
+  "journal": "Ewha Med J",
+  "year": 2025,
+  "vol": "48",
+  "issue": "3",
+  "pages": "e46",
+  "doi": "10.12771/emj.2025.00689",
+  "pmid": "40739971",
+  "verified": "PubMed esummary 2026-11-16"
+ },
+ "park2019changes": {
+  "type": "journal",
+  "authors": [
+   "Park JP",
+   "Kim SH",
+   "Lee S",
+   "Yoo SH"
+  ],
+  "title": "Changes in clinical and legal autopsy rates in Korea from 2001 to 2015",
+  "journal": "J Korean Med Sci",
+  "year": 2019,
+  "vol": "34",
+  "issue": "47",
+  "pages": "e301",
+  "doi": "10.3346/jkms.2019.34.e301",
+  "pmid": "31808323",
+  "verified": "PubMed esummary 2026-11-16"
+ },
+ "park2022application": {
+  "type": "journal",
+  "authors": [
+   "Park S",
+   "Kim SH"
+  ],
+  "title": "Does the application of International Classification of Disease codes for the cause of death on death certificates reduce garbage codes?",
+  "journal": "Inquiry",
+  "year": 2022,
+  "vol": "59",
+  "issue": "",
+  "pages": "469580221081433",
+  "doi": "10.1177/00469580221081433",
+  "pmid": "35384751",
+  "verified": "PubMed esummary 2026-11-16"
+ },
+ "rasella2010impact": {
+  "type": "journal",
+  "authors": [
+   "Rasella D",
+   "Aquino R",
+   "Barreto ML"
+  ],
+  "title": "Impact of the Family Health Program on the quality of vital information and reduction of child unattended deaths in Brazil: an ecological longitudinal study",
+  "journal": "BMC Public Health",
+  "year": 2010,
+  "vol": "10",
+  "issue": "",
+  "pages": "380",
+  "doi": "10.1186/1471-2458-10-380",
+  "pmid": "20587036",
+  "verified": "PubMed esummary 2026-11-16"
+ },
+ "riebler2016intuitive": {
+  "type": "journal",
+  "authors": [
+   "Riebler A",
+   "Sørbye SH",
+   "Simpson D",
+   "Rue H"
+  ],
+  "title": "An intuitive Bayesian spatial model for disease mapping that accounts for scaling",
+  "journal": "Stat Methods Med Res",
+  "year": 2016,
+  "vol": "25",
+  "issue": "4",
+  "pages": "1145-1165",
+  "doi": "10.1177/0962280216660421",
+  "pmid": "27566770",
+  "verified": "PubMed esummary 2026-11-16"
+ },
+ "rodrigues2018risk": {
+  "type": "journal",
+  "authors": [
+   "Rodrigues NCP",
+   "Daumas RP",
+   "Almeida AS",
+   "O'Dwyer G",
+   "Andrade MKN",
+   "Flynn MB",
+   "Lino VTS"
+  ],
+  "title": "Risk factors for the ill-defined causes of death in the Brazilian states: a multilevel analysis",
+  "journal": "Cien Saude Colet",
+  "year": 2018,
+  "vol": "23",
+  "issue": "11",
+  "pages": "3979-3988",
+  "doi": "10.1590/1413-812320182311.27182016",
+  "pmid": "30427467",
+  "verified": "PubMed esummary 2026-11-16"
+ },
+ "schmeckenbecher2024autopsy": {
+  "type": "journal",
+  "authors": [
+   "Schmeckenbecher J",
+   "Kapusta ND",
+   "Krausz RM",
+   "Emilian CA"
+  ],
+  "title": "Autopsy rates and the misclassification of suicide and accident deaths",
+  "journal": "Eur J Epidemiol",
+  "year": 2024,
+  "vol": "39",
+  "issue": "10",
+  "pages": "1109-1126",
+  "doi": "10.1007/s10654-024-01142-4",
+  "pmid": "39044107",
+  "verified": "PubMed esummary 2026-11-16"
+ },
+ "snyder2014redistribution": {
+  "type": "journal",
+  "authors": [
+   "Snyder ML",
+   "Love SA",
+   "Sorlie PD",
+   "Rosamond WD",
+   "Antini C",
+   "Metcalf PA",
+   "Hardy S",
+   "Suchindran CM",
+   "Shahar E",
+   "Heiss G"
+  ],
+  "title": "Redistribution of heart failure as the cause of death: the Atherosclerosis Risk in Communities Study",
+  "journal": "Popul Health Metr",
+  "year": 2014,
+  "vol": "12",
+  "issue": "1",
+  "pages": "10",
+  "doi": "10.1186/1478-7954-12-10",
+  "pmid": "24716810",
+  "verified": "PubMed esummary 2026-11-16"
+ },
+ "steegen2016increasing": {
+  "type": "journal",
+  "authors": [
+   "Steegen S",
+   "Tuerlinckx F",
+   "Gelman A",
+   "Vanpaemel W"
+  ],
+  "title": "Increasing transparency through a multiverse analysis",
+  "journal": "Perspect Psychol Sci",
+  "year": 2016,
+  "vol": "11",
+  "issue": "5",
+  "pages": "702-712",
+  "doi": "10.1177/1745691616658637",
+  "pmid": "27694465",
+  "verified": "PubMed esummary 2026-11-16"
+ },
+ "vanderweele2017sensitivity": {
+  "type": "journal",
+  "authors": [
+   "VanderWeele TJ",
+   "Ding P"
+  ],
+  "title": "Sensitivity analysis in observational research: introducing the E-value",
+  "journal": "Ann Intern Med",
+  "year": 2017,
+  "vol": "167",
+  "issue": "4",
+  "pages": "268-274",
+  "doi": "10.7326/M16-2607",
+  "pmid": "28693043",
+  "verified": "PubMed esummary 2026-11-16"
+ },
+ "vonelm2007strengthening": {
+  "type": "journal",
+  "authors": [
+   "von Elm E",
+   "Altman DG",
+   "Egger M",
+   "Pocock SJ",
+   "Gøtzsche PC",
+   "Vandenbroucke JP"
+  ],
+  "title": "The Strengthening the Reporting of Observational Studies in Epidemiology (STROBE) statement: guidelines for reporting observational studies",
+  "journal": "Lancet",
+  "year": 2007,
+  "vol": "370",
+  "issue": "9596",
+  "pages": "1453-1457",
+  "doi": "10.1016/S0140-6736(07)61602-X",
+  "pmid": "18064739",
+  "verified": "PubMed esummary 2026-11-16"
+ },
+ "zhao2022effect": {
+  "type": "journal",
+  "authors": [
+   "Zhao W",
+   "Hu P",
+   "Sun W",
+   "Wu W",
+   "Zhang J",
+   "Deng H",
+   "Huang J",
+   "Ukawa S",
+   "Lu J",
+   "Tamakoshi A",
+   "Liu X"
+  ],
+  "title": "Effect of physical activity on the risk of frailty: a systematic review and meta-analysis",
+  "journal": "PLoS One",
+  "year": 2022,
+  "vol": "17",
+  "issue": "12",
+  "pages": "e0278226",
+  "doi": "10.1371/journal.pone.0278226",
+  "pmid": "36454790",
+  "verified": "PubMed esummary 2026-11-16"
+ },
+ "bell2015explaining": {
+  "type": "journal",
+  "authors": [
+   "Bell A",
+   "Jones K"
+  ],
+  "title": "Explaining fixed effects: random effects modeling of time-series cross-sectional and panel data",
+  "journal": "Polit Sci Res Methods",
+  "year": 2015,
+  "vol": "3",
+  "issue": "1",
+  "pages": "133-153",
+  "doi": "10.1017/psrm.2014.7",
+  "verified": "Crossref 2026-11-16"
+ },
+ "besag1991bayesian": {
+  "type": "journal",
+  "authors": [
+   "Besag J",
+   "York J",
+   "Mollié A"
+  ],
+  "title": "Bayesian image restoration, with two applications in spatial statistics",
+  "journal": "Ann Inst Stat Math",
+  "year": 1991,
+  "vol": "43",
+  "issue": "1",
+  "pages": "1-20",
+  "doi": "10.1007/bf00116466",
+  "verified": "Crossref 2026-11-16"
+ },
+ "rue2009approximate": {
+  "type": "journal",
+  "authors": [
+   "Rue H",
+   "Martino S",
+   "Chopin N"
+  ],
+  "title": "Approximate Bayesian inference for latent Gaussian models by using integrated nested Laplace approximations",
+  "journal": "J R Stat Soc Series B Stat Methodol",
+  "year": 2009,
+  "vol": "71",
+  "issue": "2",
+  "pages": "319-392",
+  "doi": "10.1111/j.1467-9868.2008.00700.x",
+  "verified": "Crossref 2026-11-16"
+ },
+ "simpson2017penalising": {
+  "type": "journal",
+  "authors": [
+   "Simpson D",
+   "Rue H",
+   "Riebler A",
+   "Martins TG",
+   "Sørbye SH"
+  ],
+  "title": "Penalising model component complexity: a principled, practical approach to constructing priors",
+  "journal": "Stat Sci",
+  "year": 2017,
+  "vol": "32",
+  "issue": "1",
+  "pages": "1-28",
+  "doi": "10.1214/16-sts576",
+  "verified": "Crossref 2026-11-16"
+ },
+ "web:kostat2026cause": {
+  "type": "web",
+  "authors": "Statistics Korea",
+  "title": "Causes of death statistics: deaths by cause (104 items), sex and administrative district (DT_1B34E13) and by cause, sex and 5-year age group (DT_1B34E01), 2011-2024. Korean Statistical Information Service",
+  "url": "https://kosis.kr",
+  "year": 2026,
+  "accessed": "12 November 2026"
+ },
+ "web:mois2026population": {
+  "type": "web",
+  "authors": "Ministry of the Interior and Safety",
+  "title": "Resident registration population by district, sex and 5-year age group, 2011-2024",
+  "url": "https://jumin.mois.go.kr",
+  "year": 2026,
+  "accessed": "20 October 2026"
+ },
+ "web:rcore2026": {
+  "type": "web",
+  "authors": "R Core Team",
+  "title": "R: a language and environment for statistical computing, version 4.6.0. Vienna: R Foundation for Statistical Computing",
+  "url": "https://www.R-project.org",
+  "year": 2026,
+  "accessed": "12 November 2026"
+ }
+}

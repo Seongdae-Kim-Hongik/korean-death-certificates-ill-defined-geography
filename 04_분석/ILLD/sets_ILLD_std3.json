@@ -1,0 +1,193 @@
+{
+ "tag": "ILLD",
+ "outcome_column": "ext__illd_deaths",
+ "outcome_label_en": "Deaths assigned to symptoms, signs and ill-defined conditions (ICD-10 R00-R99, including senility R54; Statistics Korea cause-of-death statistics, annual, place of residence)",
+ "disease_en": "Ill-defined cause mortality",
+ "disease_ko": "불명확 사인 사망",
+ "forced": [
+  "eloc__DT_1YL20421E__1인당도시지역면적현황__도시지역인구",
+  "eloc__DT_1YL20981__인구천명당의료기관종사의사수＜br＞(A÷B×1000)",
+  "eloc__DT_1YL20701__남녀성비＜br＞(A÷B×100)",
+  "eloc__DT_1YL20891__재정자주도(세입과목개편전)",
+  "ext__pop80_share"
+ ],
+ "negative_controls": [
+  "eloc__DT_1YL13901__뺑소니교통사고율＜br＞(A÷B×100)",
+  "eloc__DT_1YL21081__주민만명당화재발생건수＜br＞(A÷B×10000)",
+  "eloc__DT_1YL21311__생활계폐기물재활용률＜br＞(A÷B×100)"
+ ],
+ "offset_E_column": "E_sexage",
+ "offset_E_file": "ILLD_Esex.csv",
+ "offset_E_label": "sex- and age-standardised E (two sexes x 18 five-year bands to 85+, national R00-R99 death rates by sex and age)",
+ "graph": "593-edge contact graph (BRCA 2026-11-04 graph_audit), ST_GRAPH=04_분석/ILLD/graph_593.graph",
+ "population_override": [
+  {
+   "year": 2023,
+   "fbd_region": "경상남도창원시",
+   "population": 1009038,
+   "source": "KOSIS DT_1YL20651E 2023 통합창원시 계; FBD_DATA_ZIP/2023.csv 창원 블록이 2022값 복사(유방암 11/4 population_final_audit)"
+  }
+ ],
+ "sensitivity_only_extra": [
+  "ext__outside_care_share"
+ ],
+ "sets": {
+  "S1_narrative_full": [
+   "ext__genhosp_per100k",
+   "ext__em_specialists_per100k",
+   "ext__im_specialists_per100k",
+   "ext__ltc_hospitals_per100k_65",
+   "ext__unmet_need_rate",
+   "eloc__DT_1YL12701__독거노인가구비율＜br＞(A÷B×100)",
+   "ext__basic_livelihood_rate",
+   "ext__tertiary_educated_share",
+   "kchs__DT_117075_H_DR_HIGH_WH__SR",
+   "kchs__DT_H_EX_WALK__SR",
+   "kchs__DT_H_EX_PHY__SR",
+   "fac__total",
+   "vil__계"
+  ],
+  "S2_core": [
+   "ext__genhosp_per100k",
+   "ext__em_specialists_per100k",
+   "eloc__DT_1YL12701__독거노인가구비율＜br＞(A÷B×100)",
+   "ext__basic_livelihood_rate",
+   "kchs__DT_H_EX_WALK__SR"
+  ],
+  "S3_physical_activity": [
+   "kchs__DT_H_EX_WALK__SR",
+   "kchs__DT_H_EX_PHY__SR",
+   "fac__total",
+   "vil__계"
+  ],
+  "S4_certification_infrastructure": [
+   "ext__genhosp_per100k",
+   "ext__em_specialists_per100k",
+   "ext__im_specialists_per100k",
+   "ext__ltc_hospitals_per100k_65",
+   "ext__unmet_need_rate"
+  ],
+  "S5_social_isolation_deprivation": [
+   "eloc__DT_1YL12701__독거노인가구비율＜br＞(A÷B×100)",
+   "ext__basic_livelihood_rate",
+   "ext__tertiary_educated_share",
+   "kchs__DT_117075_H_DR_HIGH_WH__SR"
+  ]
+ },
+ "transform": {
+  "eloc__DT_1YL20421E__1인당도시지역면적현황__도시지역인구": "share_of_pop(도시지역인구÷population(마스터))",
+  "eloc__DT_1YL20981__인구천명당의료기관종사의사수＜br＞(A÷B×1000)": "none",
+  "eloc__DT_1YL20701__남녀성비＜br＞(A÷B×100)": "none",
+  "eloc__DT_1YL20891__재정자주도(세입과목개편전)": "none",
+  "ext__pop80_share": "none",
+  "eloc__DT_1YL13901__뺑소니교통사고율＜br＞(A÷B×100)": "none",
+  "eloc__DT_1YL21081__주민만명당화재발생건수＜br＞(A÷B×10000)": "none",
+  "eloc__DT_1YL21311__생활계폐기물재활용률＜br＞(A÷B×100)": "none",
+  "ext__genhosp_per100k": "none",
+  "ext__em_specialists_per100k": "none",
+  "ext__im_specialists_per100k": "none",
+  "ext__ltc_hospitals_per100k_65": "none",
+  "ext__unmet_need_rate": "none",
+  "eloc__DT_1YL12701__독거노인가구비율＜br＞(A÷B×100)": "none",
+  "ext__basic_livelihood_rate": "none",
+  "ext__tertiary_educated_share": "none",
+  "kchs__DT_117075_H_DR_HIGH_WH__SR": "none",
+  "kchs__DT_H_EX_WALK__SR": "none",
+  "kchs__DT_H_EX_PHY__SR": "none",
+  "fac__total": "per100k",
+  "vil__계": "per100k",
+  "ext__outside_care_share": "none"
+ },
+ "expected_direction": {
+  "ext__genhosp_per100k": "-",
+  "ext__em_specialists_per100k": "-",
+  "ext__im_specialists_per100k": "-",
+  "ext__ltc_hospitals_per100k_65": "-",
+  "ext__unmet_need_rate": "+",
+  "eloc__DT_1YL12701__독거노인가구비율＜br＞(A÷B×100)": "+",
+  "ext__basic_livelihood_rate": "+",
+  "ext__tertiary_educated_share": "-",
+  "kchs__DT_117075_H_DR_HIGH_WH__SR": "+",
+  "kchs__DT_H_EX_WALK__SR": "-",
+  "kchs__DT_H_EX_PHY__SR": "-",
+  "fac__total": "-",
+  "vil__계": "-"
+ },
+ "evidence": {
+  "ext__genhosp_per100k": "mathers2005counting; mikkelsen2015global",
+  "ext__em_specialists_per100k": "mikkelsen2015global; naghavi2010algorithms",
+  "ext__im_specialists_per100k": "naghavi2010algorithms; lu2007accuracy",
+  "ext__ltc_hospitals_per100k_65": "pattaro2015senility; mieno2016accuracy",
+  "ext__unmet_need_rate": "mikkelsen2015global; adair2021quality",
+  "eloc__DT_1YL12701__독거노인가구비율＜br＞(A÷B×100)": "kim2023solitary; nakamura2017unattended",
+  "ext__basic_livelihood_rate": "lahti2001social; adair2021quality",
+  "ext__tertiary_educated_share": "lahti2001social",
+  "kchs__DT_117075_H_DR_HIGH_WH__SR": "kim2023solitary; rehm2017relationship",
+  "kchs__DT_H_EX_WALK__SR": "clegg2013frailty; tribess2020physical",
+  "kchs__DT_H_EX_PHY__SR": "clegg2013frailty; puts2017interventions",
+  "fac__total": "sallis2016physical",
+  "vil__계": "sallis2016physical"
+ },
+ "rules": {
+  "likelihood": "forced-only 모형 WAIC 낮은 쪽(Poisson/NB)",
+  "set_choice": "WAIC 최소, 4 이내면 변수 적은 세트",
+  "credible": "95% CrI 1 제외",
+  "vif_drop": 10,
+  "multiverse_specs": 200,
+  "main_model_note": "Principal model = S1_narrative_full (13 district characteristics + 5 forced controls). VIF>10 retained and reported."
+ },
+ "secondary_substitution": {
+  "question": "불명확 사인이 많은 시군구에서 순환계 사망이 그만큼 적게 기재되나(사망진단 관행의 지리)",
+  "analyses": [
+   "A1 시군구 14년 SMR(ILLD)·SMR(CIRC) Spearman, 비중(ILLD/전체·CIRC/전체) Spearman",
+   "A2 창별 변화(W1 2011-15 → W3 2020-24) ΔlogSMR 상관",
+   "A3 결합 SMR((ILLD+CIRC)/(E_ILLD+E_CIRC)) 공간 분산·P90/P10·Moran을 CIRC 단독과 비교(대체면 결합 분산 감소)",
+   "A4 비교 사인(암 C00-C97·폐렴·알츠하이머)과 같은 상관을 계산해 특이성 확인",
+   "A5 88g 비교 결과 CIRC·TRANS(NCO)에서 공변량 방향 대조"
+  ],
+  "rule": "대체 판정 = A1 SMR ρ<0 이고 A3 결합 분산이 CIRC 단독보다 작을 때 \"대체와 맞음\"; 암에서도 같은 크기면 비특이. 사후 해석은 Discussion에만."
+ },
+ "note": "Outcome: deaths with ill-defined underlying causes (ICD-10 R00-R99). Covariates selected from the literature on death certification and senility: access to diagnosis and certification (general hospitals, emergency medicine and internal medicine specialists per 100,000, long-term care hospitals per 100,000 aged 65+, unmet need), social conditions (older-adult single-person households, basic livelihood security recipients, tertiary education, high-risk drinking) and physical activity (walking, moderate physical activity, public and village sports facilities per 100,000); five forced controls; negative control exposures hit-and-run collisions, fires and household waste recycling; comparison outcomes circulatory and transport-injury deaths; pre-specified substitution analyses against specific causes.",
+ "extra_columns": {
+  "ext__pop80_share": [
+   "ILLD_Esex.csv",
+   "pop80_share_raw"
+  ],
+  "ext__illd_deaths": [
+   "EXT_canonical_pool_ILLD_261112.csv",
+   "illd_deaths"
+  ],
+  "ext__basic_livelihood_rate": [
+   "EXT_canonical_pool_ILLD_261112.csv",
+   "basic_livelihood_rate"
+  ],
+  "ext__tertiary_educated_share": [
+   "EXT_canonical_pool_ILLD_261112.csv",
+   "tertiary_educated_share"
+  ],
+  "ext__genhosp_per100k": [
+   "EXT_canonical_pool_ILLD_261112.csv",
+   "genhosp_per100k"
+  ],
+  "ext__em_specialists_per100k": [
+   "EXT_canonical_pool_ILLD_261112.csv",
+   "em_specialists_per100k"
+  ],
+  "ext__im_specialists_per100k": [
+   "EXT_canonical_pool_ILLD_261112.csv",
+   "im_specialists_per100k"
+  ],
+  "ext__unmet_need_rate": [
+   "EXT_canonical_pool_ILLD_261112.csv",
+   "unmet_need_rate"
+  ],
+  "ext__ltc_hospitals_per100k_65": [
+   "EXT_canonical_pool_ILLD_261112.csv",
+   "ltc_hospitals_per100k_65"
+  ],
+  "ext__outside_care_share": [
+   "EXT_canonical_pool_261106.csv",
+   "outside_care_share"
+  ]
+ }
+}
